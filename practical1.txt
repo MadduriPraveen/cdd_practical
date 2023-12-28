@@ -1,0 +1,6 @@
+Git Commands:
+mkdir directory
+cd directory
+git init
+git add file.extension
+
